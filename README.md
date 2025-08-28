@@ -82,5 +82,13 @@ Run BERT model:
 
 python bert_model.py
 
+Untitled27 : BERT vs Logistic Regression
+Untitled28.ipnyb : LSTM on Fakenewsnet Split 70/30 with time and accuracy comparison
+FakeNewsNet- master.zip: Data Set Details
+Logistic_regression_fakenewsnet : Logistic Regression on Fakenewsnet
+bert.py.py : BERT on Fakenewsnet
+
+
+
 
 
