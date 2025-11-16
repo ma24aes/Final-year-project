@@ -87,6 +87,7 @@ Untitled28.ipnyb : LSTM on Fakenewsnet Split 70/30 with time and accuracy compar
 FakeNewsNet- master.zip: Data Set Details
 Logistic_regression_fakenewsnet : Logistic Regression on Fakenewsnet
 bert.py.py : BERT on Fakenewsnet
+Python code.py : preprocessing of logistic regression
 
 
 
